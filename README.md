@@ -1,2 +1,4 @@
 # Hiring-Recruitement-Chatbot
-This application contains a AI powered chatbot for Hiring Recruitment Agent tool with streamlit interface. 
+AI recruitment agent leveraging LANGchain, LANGgraph, DSPY, Streamlit,OpenAI, Superbase, and Google API. This agent will autonomously identify and store potential LinkedIn candidate profiles based on company-provided job requirements on streamlit.
+
+Streamlit + OpenAI Chatbot : https://app-localhostbyakshada.streamlit.app/
